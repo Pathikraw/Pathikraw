@@ -12,7 +12,7 @@
 
 ### About Me 🌸
 
-- 🌟 **Passionate about**: Data Engineering, Software Development, and Minimalist Design.
+- 🌟 **Passionate about**: Data Engineering, Software Development, and AI.
 - 📚 **Currently Exploring**: Astrophysics, Advanced Python Projects, and System Design.
 - 🎯 **Goals**: Secure a dream role in tech, and build a meaningful startup.
 - 🌌 **Hobbies**: Stargazing, reading, and creating minimalist designs.
@@ -21,16 +21,16 @@
 
 ### My Tech Stack 💻
 
-- **Languages**: Python, C++, SQL  
-- **Tools & Platforms**: AWS, MongoDB, PostgreSQL, Airflow  
-- **Visuals**: Power BI, Minimalist Dashboards  
+- **Languages**: Python, C++, SQL, java 
+- **Tools & Platforms**: AWS, MongoDB, PostgreSQL, Airflow, Docker, Kafka
+- **Visuals**: Figma, Adobe Creative Cloud  
 
 ---
 
 ### Let's Connect 🌍
 
 <p align="center">
-   <a href="https://mailto:your-email"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"></a>
-  <a href="https://github.com/your-profile"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+   <a href="https://mailto:prsaurav@iitkgp.ac.in"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"></a>
+  <a href="https://github.com/Pathikraw"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/pathik-raw-saurav/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
